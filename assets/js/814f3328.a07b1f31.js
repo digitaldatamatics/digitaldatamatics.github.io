@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_name=self.webpackChunkwebsite_name||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"NodeJs Caching","permalink":"/blog/node-ts-caching"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);

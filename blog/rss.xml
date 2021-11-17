@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Code Alley Blog</title>
+        <link>https://digitaldatamatics.github.io/blog</link>
+        <description>Code Alley Blog</description>
+        <lastBuildDate>Thu, 18 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NodeJs Caching]]></title>
+            <link>https://digitaldatamatics.github.io/blog/node-ts-caching</link>
+            <guid>node-ts-caching</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi Datamaticians,]]></description>
+            <content:encoded><![CDATA[<p>Hi Datamaticians,</p><p>Caching library (Redis wrapper) for NodeJs have been added in the <a href="https://code.techjini.com/techjini-development/CodeAlley/backend-caching/node-ts-caching">Repo</a>.</p><p>please provide your feedback !</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://digitaldatamatics.github.io/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[CodeAlley repos are powered by people like you.]]></description>
+            <content:encoded><![CDATA[<p><a href="https://code.techjini.com/groups/techjini-development/CodeAlley/subgroups">CodeAlley repos</a> are powered by people like you.</p><p>Please use &amp; contribute to make it more powerful. </p><p>Feel free to throw on ideas about new components to be developed.</p><p><img src="./docusaurus-plushie-banner.jpeg" alt="Welcome"/></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
